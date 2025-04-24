@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative software 
 
 ### 🚀 About Me
 
+- 🎓 Completed a Data Science Bootcamp with HyperionDev
 - 🎓 Achieved an MSc in Software Engineering and BSc in Computer Science
 - 💡 Interested in mobile app development, web technologies, and software architecture
 - 🌱 Always learning and improving my skills in various programming languages and frameworks
