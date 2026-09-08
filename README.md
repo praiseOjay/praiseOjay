@@ -137,7 +137,7 @@ An Android mobile fitness app designed to improve people's health and fitness li
 
 - 💼 LinkedIn: [linkedin.com/in/praise-ojerinola-4125311b6](https://www.linkedin.com/in/praise-ojerinola-4125311b6/)
 - 📧 Email: ojerinolapraise@gmail.com
-- 🗂️ Portfolio: [hyperiondev.com/portfolio/PO25010016717](https://www.hyperiondev.com/portfolio/PO25010016717/)
+- 🗂️ Portfolio: [main.d7amsxi3w3z2i.amplifyapp.com/](https://main.d7amsxi3w3z2i.amplifyapp.com/)
 
 ---
 
