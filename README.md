@@ -2,7 +2,7 @@
 
 ## 🎓 MSc Software Engineering (Distinction) | ☁️ AWS Certified Data Engineer | 💻 Full-Stack Developer | 📱 Mobile App Enthusiast
 
-Welcome to my GitHub profile! I'm a results-driven software engineer and certified data engineer passionate about building enterprise-scale digital solutions, data pipelines, and cross-platform mobile applications.
+Welcome to my GitHub profile! I'm a results-driven junior software engineer and certified data engineer passionate about building production-style digital solutions, data pipelines, and cross-platform mobile applications using enterprise-grade tools and best practices.
 
 ---
 
