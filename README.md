@@ -1,8 +1,8 @@
 # Hi, I'm Praise Ojerinola 👋
 
-### AWS Certified Data Engineer & Software Engineering Master's Graduate
+### Software Engineer & Data Engineer
 
-Building production-style data pipelines, cloud solutions, and full-stack digital applications using enterprise-grade tools and architecture patterns.
+I work across Python, SQL, PySpark, and AWS in data engineering, PHP, Symfony, and JavaScript in web application development, and Flutter/Dart in cross-platform mobile development.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praise-ojerinola-4125311b6) [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0D16?style=for-the-badge&logo=googlechrome&logoColor=00F2FE)](https://praiseojay.github.io/Portfolio_website/) [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojerinolapraise@gmail.com)
 
@@ -10,34 +10,34 @@ Building production-style data pipelines, cloud solutions, and full-stack digita
 
 ## About me
 
-Developed a production-grade Python ETL pipeline with unit, integration, and end-to-end test coverage, comprehensive logging, and automated code-quality checks that transformed a messy fitness dataset into a clean, tested pipeline with a Streamlit dashboard. Backed this up by building a full-stack marketplace application, developing a cross-platform Flutter app, and being exposed to large-scale automated systems at Amazon, all of which led me to the same conclusion: proper testing, documentation, and a practical approach are what differentiate code that works in a demo from code that can withstand the pressures of production.
+Developed a production-grade Python ETL pipeline with unit, integration, and end-to-end test coverage, comprehensive logging, and automated code quality checks, turning a messy fitness dataset into a clean, tested pipeline with a Streamlit dashboard.
 
-I can work across Python, SQL, PySpark, and AWS in data engineering, PHP, Symfony, and JavaScript in web application development, and Flutter/Dart in cross-platform mobile development. This is backed by an MSc in Software Engineering (Distinction) from the University of Salford and an AWS Certified Data Engineer – Associate certification, both built on practical implementation across real projects rather than theory alone.
+Building a full-stack marketplace application, developing cross-platform Flutter apps, and working daily alongside large-scale automated systems at Amazon have all reinforced the same principle: proper testing, clear documentation, and a practical approach are what separate code that works in a demo from software that holds up in production.
 
-- 🎓 **Bootcamp, Data Engineering**, Digital Futures — AWS Certified (DEA-C01)
-- 🎓 **Bootcamp, Data Science**, Hyperion Dev — 97% Grade Average
-- 🎓 **Master's, Software Engineering**, University of Salford — Distinction
-- ☁️ **AWS Certified Data Engineer - Associate (DEA-C01)**, Amazon Web Services (Jan 2026)
-- ☁️ **Google AI Professional**, Google (May 2026)
+- 🎓 **Data Engineering Bootcamp**, Digital Futures
+- 🎓 **Data Science Bootcamp**, Hyperion Dev (The University of Manchester) — 97% grade average
+- 🎓 **Software Engineering**, University of Salford — Distinction
+- ☁️ **Generative AI Bootcamp: LLM Engineering, RAG & AI Agents**, Udemy (June 2026)
+- ☁️ **Google AI Professional**, Google (May 20 2026)
 
 ---
 
 ## Tech stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frameworks and libraries**  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Cloud and data**  
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Parquet](https://img.shields.io/badge/-Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
@@ -89,18 +89,24 @@ Tailors a CV and cover letter to each job in British English, humanises the writ
 
 ## Experience
 
-- **FC Associate — Automated Fulfilment Operations**, Amazon · Sept 2018 - Present
+- **FC Associate**, Amazon · September 2018 to Present
+- **Front-End Developer**, Connect Talent CIO · July 2026 to August 2026
+- **Full-Stack Developer**, Connect Talent CRM · June 2026 to August 2026
+- **Data Engineer**, UK Online Retail Sales Performance & Customer Insights (2009–2011) · April 2026 to April 2026
 
 ---
 
 ## Certifications
 
-- [AWS Certified Data Engineer - Associate (DEA-C01)](https://www.credly.com/badges/53369df2-187c-4b08-9ed8-18911445242d/public_url), Amazon Web Services · Jan 2026
-- [Google AI Professional](https://www.credly.com/badges/a22df458-67c8-4520-8d8f-c88485dce414/public_url), Google · May 2026
-- [Generative AI: LLM Engineering, RAG & Agents](https://ude.my/UC-522a591f-1a4a-408f-8a81-dec223acca15), Udemy · June 2026
+- [Generative AI Bootcamp: LLM Engineering, RAG & AI Agents](https://ude.my/UC-522a591f-1a4a-408f-8a81-dec223acca15), Udemy · June 2026
+- [Google AI Professional](https://www.credly.com/badges/a22df458-67c8-4520-8d8f-c88485dce414/public_url), Google · May 20 2026
 - [Microsoft Power BI - Beginner to Pro](https://www.udemy.com/certificate/UC-106654b1-c132-492c-902f-40239ecf1a77/), Udemy · March 2026
-- [Agile Explorer & Cybersecurity Fundamentals](https://www.credly.com/badges/f2a9434e-35b5-4e98-995d-d8b9d60e091f/linked_in_profile), IBM · Nov 2025
-- [Ethics of AI](https://certificates.mooc.fi/validate/etlylbhivrr), University of Helsinki · Nov 2025
+- [AWS Certified Data Engineer - Associate (DEA-C01)](https://www.credly.com/badges/53369df2-187c-4b08-9ed8-18911445242d/public_url), Amazon Web Services (AWS) · January 2026
+- [Agile Explorer](https://www.credly.com/badges/f2a9434e-35b5-4e98-995d-d8b9d60e091f/linked_in_profile), IBM · November 2025
+- [Cybersecurity Fundamentals](https://www.credly.com/badges/43b69d2b-7655-44f5-9f97-52d51573165f/linked_in_profile), IBM · November 2025
+- [Ethics of AI](https://certificates.mooc.fi/validate/etlylbhivrr), University of Helsinki · November 2025
+- [Data Science](https://www.hyperiondev.com/portfolio/PO25010016717/), University of Manchester & HyperionDev · April 2025
+- [Programming for Everybody (Getting Started with Python)](https://coursera.org/verify/GDQGCBY8QVR7), University of Michigan · August 2023
 
 ---
 
