@@ -2,24 +2,23 @@
 
 ### AWS Certified Data Engineer & Software Engineering Master's Graduate
 
-Building enterprise-scale data pipelines, cloud solutions, and full-stack digital applications.
+Building production-style data pipelines, cloud solutions, and full-stack digital applications using enterprise-grade tools and architecture patterns.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praise-ojerinola-4125311b6) [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojerinolapraise@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praise-ojerinola-4125311b6) [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0D16?style=for-the-badge&logo=googlechrome&logoColor=00F2FE)](https://main.d7amsxi3w3z2i.amplifyapp.com/) [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojerinolapraise@gmail.com)
 
 ---
 
 ## About me
 
-Developed a production-grade Python ETL pipeline with unit, integration, and end-to-end test coverage, comprehensive logging, and automated code quality checks, turning a messy fitness dataset into a clean, tested pipeline with a Streamlit dashboard. Building a full-stack marketplace application, developing cross-platform Flutter apps, and working daily alongside large-scale automated systems at Amazon have all reinforced the same principle: proper testing, clear documentation, and a practical approach are what separate code that works in a demo from software that holds up in production.
+Developed a production-grade Python ETL pipeline with unit, integration, and end-to-end test coverage, comprehensive logging, and automated code-quality checks that transformed a messy fitness dataset into a clean, tested pipeline with a Streamlit dashboard. Backed this up by building a full-stack marketplace application, developing a cross-platform Flutter app, and being exposed to large-scale automated systems at Amazon, all of which led me to the same conclusion: proper testing, documentation, and a practical approach are what differentiate code that works in a demo from code that can withstand the pressures of production.
 
-I work across Python, SQL, PySpark, and AWS in data engineering, PHP, Symfony, and JavaScript in web application development, and Flutter/Dart in cross-platform mobile development. This is backed by an MSc in Software Engineering (Distinction) from the University of Salford and an AWS Certified Data Engineer – Associate certification, both built on practical implementation across real projects rather than theory alone.
+I can work across Python, SQL, PySpark, and AWS in data engineering, PHP, Symfony, and JavaScript in web application development, and Flutter/Dart in cross-platform mobile development. This is backed by an MSc in Software Engineering (Distinction) from the University of Salford and an AWS Certified Data Engineer – Associate certification, both built on practical implementation across real projects rather than theory alone.
 
 - 🎓 **Bootcamp, Data Engineering**, Digital Futures — AWS Certified (DEA-C01)
 - 🎓 **Bootcamp, Data Science**, Hyperion Dev — 97% Grade Average
 - 🎓 **Master's, Software Engineering**, University of Salford — Distinction
 - ☁️ **AWS Certified Data Engineer - Associate (DEA-C01)**, Amazon Web Services (Jan 2026)
 - ☁️ **Google AI Professional**, Google (May 2026)
-- 📍 Salford, England, United Kingdom
 
 ---
 
@@ -45,11 +44,11 @@ I work across Python, SQL, PySpark, and AWS in data engineering, PHP, Symfony, a
 ## Featured projects
 
 ### AWS Serverless Data Pipeline & Analytics Platform
-Enterprise-grade, event-driven serverless data pipeline and real-time analytics platform built on AWS using TDD and Infrastructure as Code (AWS SAM), featuring Step Functions orchestration, dual-engine storage, and an interactive dashboard.
+Production-grade, event-driven serverless data pipeline and real-time analytics platform built on AWS using TDD and Infrastructure as Code (AWS SAM), featuring Step Functions orchestration, dual-engine storage, and an interactive dashboard.
 
 `AWS` · `SAM` · `Lambda` · `Step Functions` · `DynamoDB` · `S3` · `Athena`
 
-[Code](https://github.com/praiseOjay/aws-serverless-data-pipeline) | [Live](https://dev.d1ge4mev7768g0.amplifyapp.com/)
+[Code](https://github.com/praiseOjay/aws-serverless-data-pipeline) | [Live](https://praiseojay.github.io/aws-serverless-data-pipeline/)
 
 ### Data Engineering Capstone Project
 Comprehensive Python-based ETL capstone solution focused on fitness statistics analysis, featuring multi-stage cleaning, Parquet storage, and an interactive Streamlit dashboard.
@@ -108,6 +107,7 @@ WordPress web development for Connect Institute, the training division of Connec
 ## Get in touch
 
 - 💼 LinkedIn: https://linkedin.com/in/praise-ojerinola-4125311b6
+- 🌐 Portfolio: https://main.d7amsxi3w3z2i.amplifyapp.com/
 - 📧 ojerinolapraise@gmail.com
 
 <sub>Kept in step with my CV automatically. Last updated October 2026.</sub>
