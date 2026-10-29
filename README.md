@@ -4,7 +4,7 @@
 
 Building production-style data pipelines, cloud solutions, and full-stack digital applications using enterprise-grade tools and architecture patterns.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praise-ojerinola-4125311b6) [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0D16?style=for-the-badge&logo=googlechrome&logoColor=00F2FE)](https://main.d7amsxi3w3z2i.amplifyapp.com/) [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojerinolapraise@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praise-ojerinola-4125311b6) [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0D16?style=for-the-badge&logo=googlechrome&logoColor=00F2FE)](https://praiseojay.github.io/Portfolio_website/) [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojerinolapraise@gmail.com)
 
 ---
 
@@ -107,7 +107,7 @@ WordPress web development for Connect Institute, the training division of Connec
 ## Get in touch
 
 - 💼 LinkedIn: https://linkedin.com/in/praise-ojerinola-4125311b6
-- 🌐 Portfolio: https://main.d7amsxi3w3z2i.amplifyapp.com/
+- 🌐 Portfolio: https://praiseojay.github.io/Portfolio_website/
 - 📧 ojerinolapraise@gmail.com
 
 <sub>Kept in step with my CV automatically. Last updated October 2026.</sub>
