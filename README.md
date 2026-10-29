@@ -71,19 +71,19 @@ Power BI dashboard delivering end-to-end analysis of UK online retail sales data
 
 [Code](https://github.com/praiseOjay/PowerBI_capstone_project) | [Live](https://app.powerbi.com/groups/me/reports/087bb9a2-329f-497c-a396-24b4adf845c2/6b665f201c5599e30ad0?experience=power-bi)
 
-### Connect Talent CIO Website
-Modern, fully responsive web platform built for Connect Talent CIO (Registered Charity No. 1165973) using PHP, Tailwind CSS, and robust web security standards.
+### Agent HQ
+A local-first workspace where a team of persistent AI agents plans, writes, researches and runs scheduled routines on your own machine, with a React dashboard, a FastAPI backend and a YouTube channel studio.
 
-`PHP` · `Tailwind CSS` · `Web Security` · `Responsive Design` · `Front-end`
+`Python` · `FastAPI` · `React` · `MUI` · `SQLite` · `Remotion` · `Playwright`
 
-[Live](https://connect-talent.org/)
+🔒 Private repository
 
-### Connect Institute
-WordPress web development for Connect Institute, the training division of Connect International Resources, offering FE diplomas, MSc, and PhD programs.
+### AutoApplyAI
+Tailors a CV and cover letter to each job in British English, humanises the writing, checks every claim against the master CV, builds ATS-friendly PDFs and fills the application form for review.
 
-`WordPress` · `Full-Stack` · `CMS` · `Web Design` · `Higher Education`
+`Node.js` · `TypeScript` · `Express` · `React` · `SQLite` · `Playwright` · `Docker`
 
-[Live](https://coinst.uk/)
+🔒 Private repository
 
 ---
 
