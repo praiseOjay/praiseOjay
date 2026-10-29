@@ -1,144 +1,113 @@
-# Hello, I'm Praise Ojerinola 👋
+# Hi, I'm Praise Ojerinola 👋
 
-## 🎓 MSc Software Engineering (Distinction) | ☁️ AWS Certified Data Engineer | 💻 Full-Stack Developer | 📱 Mobile App Enthusiast
+### AWS Certified Data Engineer & Software Engineering Master's Graduate
 
-Welcome to my GitHub profile! I'm a results-driven software engineer and certified data engineer passionate about building enterprise-scale digital solutions, data pipelines, and cross-platform mobile applications.
+Building enterprise-scale data pipelines, cloud solutions, and full-stack digital applications.
 
----
-
-### 🚀 About Me
-
-- 🎓 MSc Software Engineering (Distinction) — University of Salford
-- 🎓 BSc Computer Science — University of Salford
-- ☁️ AWS Certified Data Engineer – Associate (DEA-C01)
-- 📊 Completed a Data Science Bootcamp at The University of Manchester (97% average)
-- 🛠️ Completed an intensive Data Engineering Bootcamp at Digital Futures
-- 💡 Interested in data engineering, mobile app development, web technologies, and software architecture
-- 🌱 Always learning and improving across Python, Java, C#, JavaScript, Dart, and cloud technologies
-- 🔭 Currently building projects that combine data engineering, fitness technology, and AI
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praise-ojerinola-4125311b6) [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojerinolapraise@gmail.com)
 
 ---
 
-### 🛠️ Technologies & Tools
+## About me
 
-#### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+Developed a production-grade Python ETL pipeline with unit, integration, and end-to-end test coverage, comprehensive logging, and automated code quality checks, turning a messy fitness dataset into a clean, tested pipeline with a Streamlit dashboard. Building a full-stack marketplace application, developing cross-platform Flutter apps, and working daily alongside large-scale automated systems at Amazon have all reinforced the same principle: proper testing, clear documentation, and a practical approach are what separate code that works in a demo from software that holds up in production.
 
-#### Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+I work across Python, SQL, PySpark, and AWS in data engineering, PHP, Symfony, and JavaScript in web application development, and Flutter/Dart in cross-platform mobile development. This is backed by an MSc in Software Engineering (Distinction) from the University of Salford and an AWS Certified Data Engineer – Associate certification, both built on practical implementation across real projects rather than theory alone.
 
-#### Cloud & Data Tools
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-#### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-#### Dev Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- 🎓 **Bootcamp, Data Engineering**, Digital Futures — AWS Certified (DEA-C01)
+- 🎓 **Bootcamp, Data Science**, Hyperion Dev — 97% Grade Average
+- 🎓 **Master's, Software Engineering**, University of Salford — Distinction
+- ☁️ **AWS Certified Data Engineer - Associate (DEA-C01)**, Amazon Web Services (Jan 2026)
+- ☁️ **Google AI Professional**, Google (May 2026)
+- 📍 Salford, England, United Kingdom
 
 ---
 
-### 🏆 Featured Projects
+## Tech stack
 
-#### 🔬 Fitness Statistics ETL Pipeline (Capstone Project)
-A comprehensive Python-based ETL capstone project demonstrating a complete data engineering solution focused on fitness statistics analysis.
-- ⚙️ Extracts fitness data from CSV sources and performs multi-stage data cleaning and enrichment
-- 📦 Loads data into structured formats (CSV and Parquet)
-- 📊 Provides interactive visualisations through a Streamlit dashboard
-- ✅ Emphasises modular architecture, comprehensive testing (unit, integration, component, E2E), code quality (flake8, sqlfluff), and structured logging
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### 🌍 Global AI in Education Dashboard (2015–2026)
-A Power BI project investigating how Artificial Intelligence has been adopted within global education systems over an 11-year period.
-- 🗺️ Spans 10 countries across 5 regions: North America, Europe, Asia, South America, and Africa
-- 📈 Tracks student usage, teacher usage, school adoption rates, and policy development
-- 🏙️ Analyses socio-demographic indicators including the urban/rural divide and gender gap
+**Frameworks and libraries**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-#### 📝 Notes Manager App
-A cross-platform mobile application for efficient task management, developed using Flutter.
-- 📱 Built with Flutter for seamless cross-platform performance
-- 🗂️ Supports full task and note management functionality
+**Cloud and data**  
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Parquet](https://img.shields.io/badge/-Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
 
-#### 🛒 Advert Marketplace Website
-A CRUD Marketplace website developed using PHP and the Symfony framework.
-- 🔐 Implements user authentication and role-based access control
-- 🖼️ Supports image uploads for adverts
-- 🔍 Features search and filtering capabilities
-- 👥 Includes an admin dashboard for user and advert management
+**Databases**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-#### 🏋️ Supercharged Fitness Application
-An Android mobile fitness app designed to improve people's health and fitness lifestyles.
-- 📱 Developed using Kotlin and Android Studio
-- 🏋️ Features multiple workout programmes for different body parts and difficulty levels
-- 🎬 Includes exercise animations and YouTube video links for detailed demonstrations
-- 🔊 Implements text-to-speech functionality and workout timers
+**Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
-### 🏅 Certifications
+## Featured projects
 
-- ☁️ **AWS Certified Data Engineer – Associate (DEA-C01)** — Amazon Web Services, January 2026
-- 🔄 **Agile Explorer** — IBM, November 2025
-- 🔒 **Cybersecurity Fundamentals** — IBM, November 2025
-- 🤖 **Ethics of AI** — University of Helsinki, November 2025
+### AWS Serverless Data Pipeline & Analytics Platform
+Enterprise-grade, event-driven serverless data pipeline and real-time analytics platform built on AWS using TDD and Infrastructure as Code (AWS SAM), featuring Step Functions orchestration, dual-engine storage, and an interactive dashboard.
+
+`AWS` · `SAM` · `Lambda` · `Step Functions` · `DynamoDB` · `S3` · `Athena`
+
+[Code](https://github.com/praiseOjay/aws-serverless-data-pipeline) | [Live](https://dev.d1ge4mev7768g0.amplifyapp.com/)
+
+### Data Engineering Capstone Project
+Comprehensive Python-based ETL capstone solution focused on fitness statistics analysis, featuring multi-stage cleaning, Parquet storage, and an interactive Streamlit dashboard.
+
+`Python` · `ETL Pipeline` · `PySpark` · `Streamlit` · `Parquet` · `Pytest` · `Data Engineering`
+
+[Code](https://github.com/praiseOjay/capstone_project) | [Live](https://data-engineering-capstone-project.streamlit.app/)
+
+### Global AI in Education Dashboard (2015–2026)
+Power BI project investigating AI adoption within global education across 10 countries and 5 regions, tracking student/teacher usage and socio-demographic indicators.
+
+`Power BI` · `Data Engineering` · `DAX` · `Data Analytics` · `Global AI Trends`
+
+[Code](https://github.com/praiseOjay/Global_AI_in_Education) | [Live](https://app.powerbi.com/groups/me/reports/0e1a5453-ca1e-4ea9-8f43-316c21cdcc8a/41f84e6fd80c77bda6ea?experience=power-bi)
+
+### UK Online Retail Sales Performance & Customer Insights (2009–2011)
+Power BI dashboard delivering end-to-end analysis of UK online retail sales data (2009–2011), detailing product demand, revenue, and customer behavior trends.
+
+`Power BI` · `Data Analytics` · `DAX` · `SQL` · `E-commerce` · `Data Visualization`
+
+[Code](https://github.com/praiseOjay/PowerBI_capstone_project) | [Live](https://app.powerbi.com/groups/me/reports/087bb9a2-329f-497c-a396-24b4adf845c2/6b665f201c5599e30ad0?experience=power-bi)
+
+### Connect Talent CIO Website
+Modern, fully responsive web platform built for Connect Talent CIO (Registered Charity No. 1165973) using PHP, Tailwind CSS, and robust web security standards.
+
+`PHP` · `Tailwind CSS` · `Web Security` · `Responsive Design` · `Front-end`
+
+[Live](https://connect-talent.org/)
+
+### Connect Institute
+WordPress web development for Connect Institute, the training division of Connect International Resources, offering FE diplomas, MSc, and PhD programs.
+
+`WordPress` · `Full-Stack` · `CMS` · `Web Design` · `Higher Education`
+
+[Live](https://coinst.uk/)
 
 ---
 
-### 📚 Skills
+## Experience
 
-- Data Engineering (ETL Pipelines, AWS, PySpark, SQL)
-- Data Science & Machine Learning (NumPy, Pandas, Scikit-learn, NLP)
-- Full-Stack Web Development (PHP, Symfony, JavaScript, HTML/CSS)
-- Mobile App Development (Flutter, React Native, Android/Kotlin)
-- Cloud Computing (AWS)
-- Object-Oriented Programming & Design Patterns
-- Database Management (MySQL, SQLite)
-- Software Testing & Quality Assurance
-- Version Control (Git & GitHub)
-- Agile & SCRUM Methodologies
+- **FC Associate — Automated Fulfilment Operations**, Amazon · Sept 2018 - Present
 
 ---
 
-### 🌟 Interests
+## Certifications
 
-- ☁️ Cloud & Data Engineering
-- 📱 Cross-platform Mobile Development
-- 🏋️ Fitness and Health Technology
-- 🤖 AI & Machine Learning Applications
-- 🔒 Application Security
-- 🌐 Open-Source Contribution
-
----
-
-### 📫 How to Reach Me
-
-- 💼 LinkedIn: [linkedin.com/in/praise-ojerinola-4125311b6](https://www.linkedin.com/in/praise-ojerinola-4125311b6/)
-- 📧 Email: ojerinolapraise@gmail.com
-- 🗂️ Portfolio: [hyperiondev.com/portfolio/PO25010016717](https://www.hyperiondev.com/portfolio/PO25010016717/)
+- [AWS Certified Data Engineer - Associate (DEA-C01)](https://www.credly.com/badges/53369df2-187c-4b08-9ed8-18911445242d/public_url), Amazon Web Services · Jan 2026
+- [Google AI Professional](https://www.credly.com/badges/a22df458-67c8-4520-8d8f-c88485dce414/public_url), Google · May 2026
+- [Generative AI: LLM Engineering, RAG & Agents](https://ude.my/UC-522a591f-1a4a-408f-8a81-dec223acca15), Udemy · June 2026
+- [Microsoft Power BI - Beginner to Pro](https://www.udemy.com/certificate/UC-106654b1-c132-492c-902f-40239ecf1a77/), Udemy · March 2026
+- [Agile Explorer & Cybersecurity Fundamentals](https://www.credly.com/badges/f2a9434e-35b5-4e98-995d-d8b9d60e091f/linked_in_profile), IBM · Nov 2025
+- [Ethics of AI](https://certificates.mooc.fi/validate/etlylbhivrr), University of Helsinki · Nov 2025
 
 ---
 
-⭐️ From [praiseOjay](https://github.com/praiseOjay)
+## Get in touch
+
+- 💼 LinkedIn: https://linkedin.com/in/praise-ojerinola-4125311b6
+- 📧 ojerinolapraise@gmail.com
+
+<sub>Kept in step with my CV automatically. Last updated October 2026.</sub>
